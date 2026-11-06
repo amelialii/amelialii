@@ -25,7 +25,7 @@ i study, build, and explain complex systems.
 - 💻 Developer focused on research tooling & systems
 - 🔬 Researching data-driven behavior & observability
 - 👩‍💻 Interests: Full-stack development • Data engineering • Project management
-- ✉️ Email: [aameliali@uw.edu](mailto:aameliali@uw.edu)
+- ✉️ Email: [amelialx99@gmail.com](mailto:amelialx99@gmail.com)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aameliali&hide_rank=true&show_icons=true&bg_color=eeebe5&title_color=424a54&text_color=8F7A66&icon_color=baa390">
