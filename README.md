@@ -10,6 +10,13 @@ i study, build, and explain complex systems.
 - 📚 researching mouse behavior
 -->
 
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl2YXl5aDBzc3VxeXJ3eDNlZGx5Y2cwZXdhb255cm9ra2EweDI1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x5HlLDaLMZNVS/giphy.gif" alt="aa" width="150" />
+</p>
+
+
+
 <p align="center">
   <img src="./images/giphy.gif" alt="chikawa" width="150" />
 </p>
